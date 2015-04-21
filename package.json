@@ -1,5 +1,5 @@
 {
-  "name": "hapi-auth-jwt",
+  "name": "kio-hapi-auth-remote",
   "description": "JSON Web Token (JWT) authentication plugin",
   "version": "2.1.1",
   "author": "Ryan Fitzgerald <ryan.fitz1@gmail.com>",
