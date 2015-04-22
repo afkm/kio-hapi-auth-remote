@@ -1,4 +1,6 @@
-### hapi-auth-jwt
+### kio-hapi-auth-remote
+
+> THIS IS WORK IN PROGRESS. USE AT YOUR OWN RISK. DOCUMENTATION TO FOLLOW SOON.
 
 [**hapi**](https://github.com/spumko/hapi) JSON Web Token (JWT) authentication plugin
 

@@ -1,11 +1,13 @@
 {
   "name": "kio-hapi-auth-remote",
-  "description": "JSON Web Token (JWT) authentication plugin",
+  "description": "JSON Web Token (JWT) remote authentication plugin; to be used with kio-hapi",
   "version": "2.1.1",
-  "author": "Ryan Fitzgerald <ryan.fitz1@gmail.com>",
-  "repository": "git://github.com/ryanfitz/hapi-auth-jwt",
+  "author": "AFKM <tech@afkm.io>",
+  "contributors": "Ryan Fitzgerald <ryan.fitz1@gmail.com>",
+  "repository": "git://github.com/afkm/kio-hapi-auth-remote",
   "main": "index",
   "keywords": [
+    "kio",
     "hapi",
     "plugin",
     "auth",
